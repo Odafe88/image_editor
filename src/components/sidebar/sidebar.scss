@@ -1,0 +1,11 @@
+.ctrl_cont {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    height: 100vh;
+    z-index: 3;
+    background-color: #fff;
+    padding: 10px;
+}
